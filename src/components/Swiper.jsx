@@ -11,7 +11,7 @@ function Swiper(props) {
                 <div className='left-side__block'>
                     <h4>Welcome to GreenShop</h4>
                     <h1>
-                        Let’s Make a <br/> Better <span>Planet1</span>
+                        Let’s Make a <br/> Better <span>Planet</span>
                     </h1>
                     <p>
                         We are an online plant shop offering a wide range of cheap and trendy plants. Use <br />
